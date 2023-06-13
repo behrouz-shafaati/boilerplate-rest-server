@@ -9,8 +9,8 @@
         "authentication": {
             "type": "default",
             "options": {
-                "userName": "seven",
-                "password": "456"
+                "userName": "<yours>",
+                "password": "<yours>"
             }
         }
     }
